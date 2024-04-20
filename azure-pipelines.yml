@@ -3,3 +3,27 @@
 # Add steps that publish symbols, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/windows/dot-net
 
+trigger:
+- none
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+    buildPlatform: 'Any CPU'
+    buildConfigurtion: 'Release'
+    soultion: '**/krugert.name-sorter.sln'
+    project: '**/krugert.name-sorter.csproj'
+
+
+steps:
+- task: NuGetToolInstaller@1
+  name: "NuGetToolInstaller"
+  displayName: "NuGet Tool Installer"
+
+
+- task: NuGetCommand@2
+  inputs:
+    command: 'restore'
+    restoreSolution: '${solution}'
+    feedsToUse: 'select'
