@@ -24,10 +24,10 @@ namespace name_sorter
             var nameSorter = new LastNameSorter();
 
             // Read names from the file
-            List<Person> people = stream.ReadFile(inputFilePath);
+            List<IPerson> people = stream.ReadFile(inputFilePath);
 
             // Sort names by last name
-            List<Person> sortedPeople = nameSorter.SortNamesByLastName(people);
+            List<IPerson> sortedPeople = nameSorter.SortNamesByLastName(people);
 
             // Output sorted names
             Console.WriteLine("Sorted Names:");

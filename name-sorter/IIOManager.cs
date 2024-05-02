@@ -8,7 +8,7 @@ namespace name_sorter
 {
     public interface IIOManager
     {
-        public List<Person> ReadFile(string filePath);
-        public void WriteFile(string filePath, List<Person> people);
+        public List<IPerson> ReadFile(string filePath);
+        public void WriteFile(string filePath, List<IPerson> people);
     }
 }

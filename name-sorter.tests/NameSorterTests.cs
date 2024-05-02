@@ -7,7 +7,6 @@ namespace name_sorter.tests
     public class NameSorterTests
     {
         LastNameSorter testCase = new LastNameSorter();
-        Person lastNameTestCase = new Person();
 
         [Fact]
         public void CheckIfFileExists()
@@ -19,7 +18,7 @@ namespace name_sorter.tests
             var nameSorter = new LastNameSorter();
 
             // Act
-            List<Person> people = stream.ReadFile(inputFilePath);
+            List<IPerson> people = stream.ReadFile(inputFilePath);
 
             // Assert
             Assert.True(File.Exists(inputFilePath));
@@ -65,18 +64,18 @@ namespace name_sorter.tests
         public void CheckIfNamesWereSortedByLastName()
         {
             // Arrange
-            List<Person> expected = new List<Person>{
+            List<IPerson> expected = new List<IPerson>{
                 new Person("Jane", "Doe"),
                 new Person("John", "Doe")
             };
 
-            List<Person> unsortedPersons = new List<Person>{
+            List<IPerson> unsortedPersons = new List<IPerson>{
                 new Person("John", "Doe"),
                 new Person("Jane", "Doe")
             };
 
             // Act
-            List<Person> actual = testCase.SortNamesByLastName(unsortedPersons);
+            List<IPerson> actual = testCase.SortNamesByLastName(unsortedPersons);
 
             // Assert
             Enumerable.SequenceEqual(expected, actual);

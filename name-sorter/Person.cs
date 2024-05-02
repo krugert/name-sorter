@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace name_sorter
 {
-    public class Person
+    public class Person : IPerson
     {
         public string FirstName { get; set; } // read-only auto-implemented property
         public string LastName { get; set; } // read-only auto-implemented property
