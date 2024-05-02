@@ -11,7 +11,7 @@ pool:
 
 variables:
     buildPlatform: 'Any CPU'
-    buildConfigurtion: 'Release'
+    buildConfigurtion: 'Debug'
     soultion: '**/krugert.name-sorter.sln'
     project: '**/krugert.name-sorter.csproj'
 
