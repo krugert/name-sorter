@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{0FACBBF7-1939-4E99-B4F0-70AA38F6A8BE}|name-sorter.tests\\name-sorter.tests.csproj|solutionrelative:name-sorter.tests\\namesortertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\lastnamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\lastnamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\inamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\inamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\iiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\istringformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\istringformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\stringoperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\stringoperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\inamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\inamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\lastnamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\lastnamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|c:\\users\\tim kruger\\desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\istringformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE2245A-DBDB-4BE2-A349-8275E2F7D5A7}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\istringformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +50,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IPerson.cs",
+              "RelativeDocumentMoniker": "name-sorter\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IPerson.cs",
+              "RelativeToolTip": "name-sorter\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:23:18.287Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,18 +77,92 @@
               "RelativeDocumentMoniker": "name-sorter.tests\\NameSorterTests.cs",
               "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter.tests\\NameSorterTests.cs",
               "RelativeToolTip": "name-sorter.tests\\NameSorterTests.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAlwDAAAAAkAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwAgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T07:23:46.89Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Person.cs",
+              "RelativeDocumentMoniker": "name-sorter\\Person.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Person.cs",
+              "RelativeToolTip": "name-sorter\\Person.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:28:47.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "IIOManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IIOManager.cs",
+              "RelativeDocumentMoniker": "name-sorter\\IIOManager.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IIOManager.cs",
+              "RelativeToolTip": "name-sorter\\IIOManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:56:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IOManager.cs",
+              "RelativeDocumentMoniker": "name-sorter\\IOManager.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IOManager.cs",
+              "RelativeToolTip": "name-sorter\\IOManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:27:39.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Program.cs",
+              "RelativeDocumentMoniker": "name-sorter\\Program.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Program.cs",
+              "RelativeToolTip": "name-sorter\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:25:59.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LastNameSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\LastNameSorter.cs",
+              "RelativeDocumentMoniker": "name-sorter\\LastNameSorter.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\LastNameSorter.cs",
+              "RelativeToolTip": "name-sorter\\LastNameSorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:30:36.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INameSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\INameSorter.cs",
+              "RelativeDocumentMoniker": "name-sorter\\INameSorter.cs",
+              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\INameSorter.cs",
+              "RelativeToolTip": "name-sorter\\INameSorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:31:48.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "StringOperationService.cs",
               "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\StringOperationService.cs",
               "RelativeDocumentMoniker": "name-sorter\\StringOperationService.cs",
@@ -80,20 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Person.cs",
-              "RelativeDocumentMoniker": "name-sorter\\Person.cs",
-              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Person.cs",
-              "RelativeToolTip": "name-sorter\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T07:28:47.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IStringFormatter.cs",
               "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IStringFormatter.cs",
               "RelativeDocumentMoniker": "name-sorter\\IStringFormatter.cs",
@@ -102,71 +184,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T05:21:02.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IIOManager.cs",
-              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IIOManager.cs",
-              "RelativeDocumentMoniker": "name-sorter\\IIOManager.cs",
-              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IIOManager.cs",
-              "RelativeToolTip": "name-sorter\\IIOManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T04:56:13.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IOManager.cs",
-              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IOManager.cs",
-              "RelativeDocumentMoniker": "name-sorter\\IOManager.cs",
-              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\IOManager.cs",
-              "RelativeToolTip": "name-sorter\\IOManager.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwBAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T07:27:39.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "INameSorter.cs",
-              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\INameSorter.cs",
-              "RelativeDocumentMoniker": "name-sorter\\INameSorter.cs",
-              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\INameSorter.cs",
-              "RelativeToolTip": "name-sorter\\INameSorter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T07:31:48.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LastNameSorter.cs",
-              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\LastNameSorter.cs",
-              "RelativeDocumentMoniker": "name-sorter\\LastNameSorter.cs",
-              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\LastNameSorter.cs",
-              "RelativeToolTip": "name-sorter\\LastNameSorter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T07:30:36.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Program.cs",
-              "RelativeDocumentMoniker": "name-sorter\\Program.cs",
-              "ToolTip": "C:\\Users\\Tim Kruger\\Desktop\\careers\\dye \u0026 durham\\name-sorter\\name-sorter\\Program.cs",
-              "RelativeToolTip": "name-sorter\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T07:25:59.399Z",
               "EditorCaption": ""
             }
           ]

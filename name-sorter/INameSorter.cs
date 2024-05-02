@@ -9,6 +9,6 @@ namespace name_sorter
     // Interface for the last name sorter class
     public interface INameSorter
     {
-        public List<Person> SortNamesByLastName(List<Person> people);
+        public List<IPerson> SortNamesByLastName(List<IPerson> people);
     }
 }

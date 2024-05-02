@@ -9,7 +9,7 @@ namespace name_sorter
     // Implementation of the name sorter
     public class LastNameSorter : INameSorter
     {
-        public List<Person> SortNamesByLastName(List<Person> people)
+        public List<IPerson> SortNamesByLastName(List<IPerson> people)
         {
             var result = from p in people
                          orderby p.LastName, p.FirstName

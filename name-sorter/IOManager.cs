@@ -9,9 +9,9 @@ namespace name_sorter
     // IO reader class adhering to SRP
     public class IOManager : IIOManager
     {
-        public List<Person> ReadFile(string filePath)
+        public List<IPerson> ReadFile(string filePath)
         {
-            List<Person> people = new List<Person>();
+            List<IPerson> people = new List<IPerson>();
 
             try
             {
@@ -35,7 +35,7 @@ namespace name_sorter
             return people;
         }
 
-        public void WriteFile(string filePath, List<Person> people)
+        public void WriteFile(string filePath, List<IPerson> people)
         {
             try
             {
