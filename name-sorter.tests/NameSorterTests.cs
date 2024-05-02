@@ -4,7 +4,7 @@ using System.Reflection.PortableExecutable;
 
 namespace name_sorter.tests
 {
-    public class LastNameSorterTests
+    public class NameSorterTests
     {
         LastNameSorter testCase = new LastNameSorter();
         Person lastNameTestCase = new Person();
@@ -15,7 +15,7 @@ namespace name_sorter.tests
             // Arrange
             string inputFilePath = @"../../../../name-sorter/bin/Debug/net8.0/unsorted-names-list.txt";
 
-            var stream = new IO();
+            var stream = new IOManager();
             var nameSorter = new LastNameSorter();
 
             // Act
@@ -23,6 +23,12 @@ namespace name_sorter.tests
 
             // Assert
             Assert.True(File.Exists(inputFilePath));
+        }
+
+        [Fact]
+        public void CheckIfFileCanBeAccessed()
+        {
+
         }
 
         [Fact]
@@ -46,8 +52,8 @@ namespace name_sorter.tests
 
             foreach (string name in names)
             {
-                Person person = new Person();
-                actual.Add(person.GetLastName(name));
+                StringOperationService stringOperationService = new StringOperationService();
+                actual.Add(stringOperationService.GetLastName(name));
 
             }
 

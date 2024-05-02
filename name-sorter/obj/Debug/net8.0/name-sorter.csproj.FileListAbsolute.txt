@@ -12,3 +12,4 @@ C:\Users\Tim Kruger\Desktop\careers\dye & durham\name-sorter\name-sorter\obj\Deb
 C:\Users\Tim Kruger\Desktop\careers\dye & durham\name-sorter\name-sorter\obj\Debug\net8.0\name-sorter.pdb
 C:\Users\Tim Kruger\Desktop\careers\dye & durham\name-sorter\name-sorter\obj\Debug\net8.0\name-sorter.genruntimeconfig.cache
 C:\Users\Tim Kruger\Desktop\careers\dye & durham\name-sorter\name-sorter\obj\Debug\net8.0\ref\name-sorter.dll
+C:\Users\Tim Kruger\Desktop\careers\dye & durham\name-sorter\name-sorter\obj\Debug\net8.0\name-sorter.sourcelink.json

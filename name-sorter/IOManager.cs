@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace name_sorter
 {
     // IO reader class adhering to SRP
-    public class IO
+    public class IOManager : IIOManager
     {
         public List<Person> ReadFile(string filePath)
         {
@@ -21,8 +21,9 @@ namespace name_sorter
                     while ((line = reader.ReadLine()) != null)
                     {
                         Person person = new Person();
-                        person.FirstName = person.GetFirstName(line);
-                        person.LastName = person.GetLastName(line);
+                        StringOperationService stringOperationService = new StringOperationService();
+                        person.FirstName = stringOperationService.GetFirstName(line);
+                        person.LastName = stringOperationService.GetLastName(line);
                         people.Add(person);
                     }
                 }
