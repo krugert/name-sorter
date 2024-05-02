@@ -36,7 +36,7 @@ steps:
   displayName: "Run Tests"
   inputs:
     command: 'test'
-    projects: '$(solution)'
+    projects: '**/*.csproj'
     arguments: 'configuration: $(BuildConfiguration)'
 
 
