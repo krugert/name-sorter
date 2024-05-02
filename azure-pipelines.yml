@@ -11,7 +11,7 @@ pool:
 
 variables:
     buildPlatform: 'Any CPU'
-    buildConfigurtion: 'Debug'
+    buildConfigurtion: 'Release'
     soultion: '**/krugert.name-sorter.sln'
     project: '**/krugert.name-sorter.csproj'
 
@@ -48,7 +48,7 @@ steps:
     command: 'publish'
     publishWebProjects: false
     projects: '$(project)'
-    arguments: 'configuration: $(BuildConfiguration) --output: $(Build.ArtifactStagingDirectory)'
+    arguments: '--configuration: $(BuildConfiguration) --output: $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: false
 
 
