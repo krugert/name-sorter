@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace name_sorter
 {
-    // Interface for the last name sorter class
-    public interface INameSorter
+    public interface IIOManager
     {
-        public List<Person> SortNamesByLastName(List<Person> people);
+        public List<Person> ReadFile(string filePath);
+        public void WriteFile(string filePath, List<Person> people);
     }
 }

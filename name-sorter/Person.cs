@@ -1,4 +1,5 @@
-﻿using System;
+﻿using name_sorter;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,27 +14,14 @@ namespace name_sorter
 
         public Person()
         {
-
+            this.FirstName = "";
+            this.LastName = "";
         }
 
         public Person(string firstName, string lastName)
         {
-            FirstName = firstName;
-            LastName = lastName;
-        }
-
-        public string GetFirstName(string fullName)
-        {
-            int length = fullName.LastIndexOf(' ');
-            return fullName.Substring(0, length);
-        }
-
-        public string GetLastName(string fullName)
-        {
-            int startIndex = fullName.LastIndexOf(' ') + 1;
-            int length = fullName.Length - startIndex;
-
-            return fullName.Substring(startIndex, length);
+            this.FirstName = firstName;
+            this.LastName = lastName;
         }
 
         // return a string containing the person information

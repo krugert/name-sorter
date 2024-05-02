@@ -20,7 +20,7 @@ namespace name_sorter
             }
 
             // Using dependency injection to inject File and LastNameSorter
-            var stream = new IO();
+            var stream = new IOManager();
             var nameSorter = new LastNameSorter();
 
             // Read names from the file
